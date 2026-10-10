@@ -11,7 +11,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/pulls)
 [![License](https://img.shields.io/github/license/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/blob/main/LICENSE)
-[![中文](https://img.shields.io/badge/🇨🇳_中文-Available-blue)](README.md)
+[![中文](https://img.shields.io/badge/🇨🇳_中文-Available-blue)](README.zh-CN.md)
 [![English](https://img.shields.io/badge/🇺🇸_English-Current-green)](README_en.md)
 [![Español](https://img.shields.io/badge/🇪🇸_Español-Available-green)](README_es.md)
 
